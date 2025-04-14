@@ -58,4 +58,4 @@ Basta ter um projeto com React e Tailwind CSS! Passe uma lista de alunos com nom
 
 ---
 
-Feito com 💙 em Abril de 2025!
+Feito com 💙 por Pedro Pinheiro em Abril de 2025!
